@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @yacovonthego
-- 👀 Passionate about JS and music
-- 📫 TG: @yakovonthego
+- 👋 Hi, I’m Yakov, thanks for stopping by
+- 👀 Passionate about Web Development and Self improvment
+- 📫 telegram: @wchtykv
 - 📫 mail: yakovonthego@gmail.com
 
 <!---
