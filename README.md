@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yakov, thanks for stopping by
-- 👀 Passionate about Web Development and Self improvment
+- 👀 Passionate about Web Development and self improvment
 - 📫 telegram: @wchtykv
 - 📫 mail: yakovonthego@gmail.com
 
